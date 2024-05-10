@@ -1,0 +1,1 @@
+C:\Users\ndeba\source\repos\MauiAppXml\MauiAppXml.csproj;x64
